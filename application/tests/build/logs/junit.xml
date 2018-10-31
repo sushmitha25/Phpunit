@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Task_test" file="/var/www/html/cloudscheduler-dev/application/tests/controllers/Task_Test.php" tests="4" assertions="4" failures="0" errors="0" time="0.020876">
+    <testcase name="test_index" class="Task_test" file="/var/www/html/cloudscheduler-dev/application/tests/controllers/Task_Test.php" line="38" assertions="1" time="0.006941"/>
+    <testcase name="test_task_report" class="Task_test" file="/var/www/html/cloudscheduler-dev/application/tests/controllers/Task_Test.php" line="51" assertions="1" time="0.002592"/>
+    <testcase name="test_deactivate_tasks" class="Task_test" file="/var/www/html/cloudscheduler-dev/application/tests/controllers/Task_Test.php" line="169" assertions="1" time="0.005026"/>
+    <testcase name="test_runtask" class="Task_test" file="/var/www/html/cloudscheduler-dev/application/tests/controllers/Task_Test.php" line="182" assertions="1" time="0.006317"/>
+  </testsuite>
+</testsuites>

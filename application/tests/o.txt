@@ -1,0 +1,66 @@
+PHPUnit 5.4.7 by Sebastian Bergmann and contributors.
+
+Error:         No code coverage driver is available
+
+CI_Loader Object
+(
+    [_ci_ob_level:protected] => 1
+    [_ci_view_paths:protected] => Array
+        (
+            [/var/www/html/cloudscheduler-dev/application/views/] => 1
+        )
+
+    [_ci_library_paths:protected] => Array
+        (
+            [0] => /var/www/html/cloudscheduler-dev/application/
+            [1] => /var/www/html/cloudscheduler-dev/system/
+        )
+
+    [_ci_model_paths:protected] => Array
+        (
+            [0] => /var/www/html/cloudscheduler-dev/application/
+        )
+
+    [_ci_helper_paths:protected] => Array
+        (
+            [0] => /var/www/html/cloudscheduler-dev/application/
+            [1] => /var/www/html/cloudscheduler-dev/system/
+        )
+
+    [_ci_cached_vars:protected] => Array
+        (
+        )
+
+    [_ci_classes:protected] => Array
+        (
+            [benchmark] => Benchmark
+            [hooks] => Hooks
+            [config] => Config
+            [uri] => URI
+            [router] => Router
+            [output] => Output
+            [security] => Security
+            [input] => Input
+            [lang] => Lang
+            [loader] => Loader
+        )
+
+    [_ci_models:protected] => Array
+        (
+            [0] => Tenant_model
+        )
+
+    [_ci_helpers:protected] => Array
+        (
+            [url_helper] => 1
+            [form_helper] => 1
+            [string_helper] => 1
+        )
+
+    [_ci_varmap:protected] => Array
+        (
+            [unit_test] => unit
+            [user_agent] => agent
+        )
+
+)
